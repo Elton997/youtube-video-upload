@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ```
 2. Run the script
 ```
-python3 video_uploader.py
+python3 youtube_video_upload.py
 ```
 3. The function upload_video_to_youtube(video_file_name, video_title, video_description) takes in three arguments:
 - video_file_name: The name of the video file in S3.
